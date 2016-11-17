@@ -1,0 +1,17 @@
+/**
+* Incompleted task
+**/
+li .btn-link {
+    color: #a94442 !important;
+}
+
+/**
+* Completed task
+**/
+li.checked .btn-link {
+    color: #468847 !important;
+}
+
+li .btn-link:hover {
+    text-decoration: none !important;
+}

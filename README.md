@@ -1,2 +1,1 @@
-# taskmaster3000
-Super-duper-simple javascript TaskManager.
+# Taskmaster 3000
